@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 3. **Dataset and CPG Extraction.**
 
-Dataset: We used publicly available datasets named BigVul-C/C++, Project_KB-Java, MegaVul-Java, and CVEFixes-Python.
+Dataset: We used publicly available datasets named Project_KB-Java, MegaVul-Java, and CVEFixes-Python.
 
 CPG Extraction: We use Joern to parse the source code, extracting relevant nodes and edge data.
 
