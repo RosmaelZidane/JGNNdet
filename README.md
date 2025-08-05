@@ -3,7 +3,7 @@
 1. **Clone the project repository.**
 
 ```bash
-   git clone https://github.com/SCVDetect/VVulDet.git
+   git clone https://github.com/RosmaelZidane/JGNNdet.git
 ```
 
 2. **Install the required Python packages.**
