@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+sourcescripts/storage/outputs
+sourcescripts/storage/outputs_1
+sourcescripts/storage/processed
+sourcescripts/storage/cache
+sourcescripts/storage/external/MegaVul_Java_Domain.csv
 # C extensions
 *.so
 
